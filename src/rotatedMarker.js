@@ -62,4 +62,3 @@ L.rotatedMarker = function (latlng, options) {
   return new L.RotatedMarker(latlng, options);
 };
 
-export var RotatedMarker = L.RotatedMarker;
